@@ -46,3 +46,10 @@ border: 0.5rem outset orange;
 a:hover {
   text-decoration: underline;
 }
+
+.heading{
+
+width:250px;
+text-align: center;
+
+}
